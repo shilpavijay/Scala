@@ -22,3 +22,12 @@ object SquareRoot extends App {
     println(sqrt(1e-6))
     println(sqrt(1e60))
 }
+
+/*
+Output:
+1.4142156862745097
+1.7321428571428572
+0.0010000001533016628
+1.0000788456669446E30
+
+ */
